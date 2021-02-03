@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello VisualStudio Git\n";
+    std::cout << "リモートリポジトリで変更した場所\n";
     std::cout << "新規ブランチでこの行を追加\n";
 
 }
